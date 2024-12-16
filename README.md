@@ -1,6 +1,6 @@
 # Bike Sales Data Analysis
 
-![bike-sales-report](https://github.com/user-attachments/assets/6e1ae688-126b-4ed8-8e60-91ba5b037ffa)
+![bike-sales-report](https://github.com/user-attachments/assets/734c018e-5d12-4266-9adf-89d1fa2cd4b1)
 
 
 This repository contains an analysis of bike sales data, uncovering key trends and insights to better understand customer purchasing behavior. The findings provide valuable information for businesses and stakeholders in the biking industry.
